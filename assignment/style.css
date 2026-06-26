@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(166, 205, 247);
+    display: flex;
+}
+/* main{
+    display: flex; 
+ } */
+#box1{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+}
+
+#box2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+}
+
+#box3{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+}
